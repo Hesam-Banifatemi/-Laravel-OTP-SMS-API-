@@ -2,7 +2,7 @@
 <p>In this API The goal is to, after receiving the necessary credentials from the user like
 **mobile number**, and **vote**, a **sms** will be sent containing the **otp token** using a **thrid party api**
 which is **sms.ir** api,and whose job is to sending sms to the user.</p>
-#### so we have three end points
+<h4>so we have three end points</h4>
 <p>
 1) `/api/generate`<br>
 whose job is the *receive the necessary credentials and validate them
